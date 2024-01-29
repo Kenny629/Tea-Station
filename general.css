@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100;0,300;0,400;0,600;0,700;1,100&family=Charm&family=Cinzel+Decorative&family=Grand+Hotel&family=Playball&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100;0,300;0,400;0,600;0,700;1,100&family=Catamaran:wght@400;600;700&family=Charm&family=Cinzel+Decorative&family=Grand+Hotel&family=Playball&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: var(--mainFont);
+}
+/* :root{
+  --green: #678E3E;
+  --lightgreen: #beed8c;
+  --grey-1: #102a42;
+  --grey-2: #617d98;
+  --background: #f1f5f8;
+  --cursiveFont: 'Grand Hotel', cursive;
+  --mainFont: 'Catamaran', sans-serif;
+  --transition: all 0.3s linear;
+  --spacing: 0.2rem;
+} */
